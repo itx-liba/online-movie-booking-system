@@ -45,6 +45,3 @@ Future Improvements
 Author
 Laiba David
 Aspiring Full Stack Developer
-
-Muhammad Liba
-Aspiring Full Stack Developer
