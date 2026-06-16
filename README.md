@@ -35,58 +35,16 @@ Project screenshot folder is also avaliable in it.
 Future Improvements
 
 1.Online Payment Gateway Integration
+
 2.Email Notifications
+
 3.Mobile Responsive Enhancements
+
 4.Seat Selection Interface
 
 Author
 Laiba David
-# 🎬 Online Movie Booking System
-
-## Overview
-
-Online Movie Booking System is a web-based application that allows users to browse movies, watch trailers, view ratings and reviews, and book movie tickets online. The system also includes an admin panel for managing theaters, movies, schedules, and users.
-
-## Features
-
-* User Registration & Login
-* Browse Movies
-* View Movie Reviews & Ratings
-* Watch Movie Trailers
-* Online Ticket Booking
-* Multiple Seat Categories (Gold, Platinum, Box)
-* Admin Dashboard
-* Theater Management
-* Movie Management
-* Show Time Management
-* User Management
-
-## Technologies Used
-
-* HTML5
-* CSS3
-* Bootstrap
-* JavaScript
-* jQuery
-* PHP
-* MySQL
-
-## Screenshots
-
-(Add project screenshots here)
-
-## Future Improvements
-
-* Online Payment Gateway Integration
-* Email Notifications
-* Mobile Responsive Enhancements
-* Seat Selection Interface
-
-## Author
-
-Muhammad Liba
 Aspiring Full Stack Developer
-
 
 Muhammad Liba
 Aspiring Full Stack Developer
